@@ -1,6 +1,6 @@
-# latex-sandbox
-LaTeX sandbox 
+# LaTex Sandbox
+	LaTeX sandbox
 
-
-## Sources
-# https://it.sharelatex.com/templates/bibliographies/bibtex
+### Sources
+* Bibtex
+** https://it.sharelatex.com/templates/bibliographies/bibtex
