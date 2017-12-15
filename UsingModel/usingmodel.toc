@@ -1,0 +1,15 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {chapter}{}{ii}{chapter*.1}
+\contentsline {chapter}{Prefazione}{iii}{chapter*.2}
+\contentsline {chapter}{Ringraziamenti}{iv}{chapter*.4}
+\contentsline {chapter}{\numberline {1}Introduzione}{1}{chapter.1}
+\contentsline {paragraph}{*}{1}{section*.6}
+\contentsline {chapter}{\numberline {2}Capitolo}{2}{chapter.2}
+\contentsline {paragraph}{*}{2}{section*.7}
+\contentsline {section}{\numberline {2.1}Sezione 1}{2}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}subsezine 1 2}{2}{subsection.2.1.1}
+\contentsline {subsubsection}{subsub3}{2}{section*.8}
+\contentsline {subsubsection}{sub3}{2}{section*.9}
+\contentsline {paragraph}{paragrafo}{2}{section*.10}
+\contentsline {subparagraph}{paragrafo}{2}{section*.11}
